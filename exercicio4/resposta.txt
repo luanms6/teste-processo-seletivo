@@ -1,0 +1,17 @@
+Primeira ida:
+
+Ligue um dos interruptores e aguarde alguns minutos.
+Desligue esse interruptor.
+Agora, duas situações podem ocorrer:
+
+Se a lâmpada estiver acesa, isso significa que o interruptor ligado controla essa lâmpada.
+Se a lâmpada estiver apagada, isso significa que o interruptor desligado controla essa lâmpada.
+
+Segunda ida:
+
+Deixe um interruptor desligado e ligue outro.
+Entre na sala das lâmpadas.
+Agora, verifique:
+
+Se houver uma lâmpada acesa, isso significa que o interruptor ligado controla essa lâmpada.
+Se houver uma lâmpada apagada, isso significa que o interruptor desligado controla essa lâmpada.
